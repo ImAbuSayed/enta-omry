@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta Omry
+
+This log tracks the cryptographic history and versioning for the song **Enta Omry** (enta-omry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:27:03.772986 | `v1` | `fc661fb0b88f817d13afeb7964a8d29c5265cd541cbe50a5ef405cf43974e441` | `c2b2c35a8194d3a1710bc27c7485a3f074a45192ed31d539d26dd4c5ca619a85` | `2026-05-09_enta-omry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
